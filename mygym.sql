@@ -87,7 +87,7 @@ INSERT INTO loginpage (username, password) VALUES
 ('fitnesspoint', '12345');
 
 INSERT INTO pay_customer (id, name, category, fees, month, tname) VALUES
-(101, 'Rohan', 'Public', 2000, 'January', 'Sahil Khan');
+(101, 'Rohan', 'Public', 2000, 'January', 'Sahil Khana');
 
 
 
