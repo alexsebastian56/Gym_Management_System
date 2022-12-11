@@ -17,7 +17,9 @@ The various models or the various pages in this project can be divided as:
 - Updating Trainer Details Page
 
 
-///Screenshots of each page interface\\\
+## Screenshots of each page interface
+
+
 Add Customer Page:-
 
 ![image](https://user-images.githubusercontent.com/114386574/206901615-52ee93b5-ca45-45f5-a912-a55456ce0b25.png)
@@ -50,7 +52,7 @@ Trainer Fees Page:-
 
 
 
-
+##INFORMATION ABOUT THE SYSTEM
 
 All the other pages mentioned can be accessed from the Home page. Home page class has toolbar that opens or connects to the other pages which lets you to have a seamless gym management system. This application provides services to all the basic requirements needed in a Gym. With this application a trainer will not need to keep asking a cutomer for their fees or their personal details. All the detials and their monthly payment plans are handled by the application. A gym wouldnt need to worry about the trainer fees or the trainer agreement details as these are also collected by the application. 
 
