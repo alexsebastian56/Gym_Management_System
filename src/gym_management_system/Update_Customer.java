@@ -288,7 +288,7 @@ public class Update_Customer extends JFrame implements ActionListener
             }
             if(e.getSource()==bt2)
             {
-                JOptionPane.showMessageDialog(null,"Are you Sure?");
+                JOptionPane.showMessageDialog(null,"Are you Sure???");
                 setVisible(false);
             }
         }
